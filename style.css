@@ -6,8 +6,12 @@
 }
 
 .container{
+    background-color: grey;
     width: 80%;
     max-width: 1200px;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
 }
 
 img{
@@ -19,3 +23,16 @@ img{
     display: table;
     clear: both;
 }
+
+body{
+    font-family: 'Fredoka', sans-serif;
+}
+
+/* header */
+
+h1{
+    margin-bottom: 20px;
+}
+
+/* main */
+
